@@ -1,7 +1,7 @@
 # ProcForest
 
 **ProcForest** — это терминальное приложение на базе [Textual](https://github.com/Textualize/textual), предназначенное для визуализации дерева процессов вашей системы с возможностью сортировки.
-[Example](/etc/output.mp4)
+<video src="/etc/output.mp4" controls></video>
 ## Возможности
 
 - Просмотр дерева всех запущенных процессов.
