@@ -76,6 +76,3 @@ https://github.com/user-attachments/assets/79835c08-9525-4016-88f1-ece080153270
 
 - [psutil](https://github.com/giampaolo/psutil) — для работы с процессами.
 - [Textual](https://github.com/Textualize/textual) — для TUI.
-
-**Автор:**  
-[Ваше имя или ник](https://github.com/Lorgar-Horusov)
